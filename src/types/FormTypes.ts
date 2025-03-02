@@ -9,6 +9,9 @@ export interface BasicCustomerInfo{
         customer_Name: string,
         surname: string ,
         forename_1: string 
+        
+
+
       
 };
 export interface ExtendedCustomerInfo{
